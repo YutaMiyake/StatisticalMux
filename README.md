@@ -1,5 +1,5 @@
 # Statistical Mux
-A statistial multiplexer simulator. 
+A statistical multiplexer simulator.
 
 ## Screenshots
 ![Alt main](./images/screenshot1.png?raw=true "main")
