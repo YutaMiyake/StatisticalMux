@@ -4,13 +4,13 @@ A statistical multiplexer simulator.
 ## Screenshots
 ![Alt main](./images/screenshot1.png?raw=true "main")
 
-## Instllation
-```bash
+## Installation
+```
 javac *.java (assume you are in src folder)
 
 ```
 ## Usage
-```bash
+```
 java Driver (assume you are in src folder)
 ```
 ## Licence
