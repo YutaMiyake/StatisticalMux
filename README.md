@@ -7,7 +7,6 @@ A statistical multiplexer simulator.
 ## Installation
 ```
 javac *.java (assume you are in src folder)
-
 ```
 ## Usage
 ```
